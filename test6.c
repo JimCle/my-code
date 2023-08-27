@@ -3,14 +3,14 @@
 int main()
 {
 	int word = 0;
-	while (word < 433)
+	while (word < 433)//å¾ªçŽ¯è¯­å¥
 	{
 		word = word + 1;
-		printf("¼ÌÐø±³µ¥´Ê:%d\n",word);
+		printf("ç»§ç»­èƒŒå•è¯:%d\n",word);
 	}
 	if (word == 433)
 	{
-		printf("ËÄ¼¶¿¼¹ýÎÈÎÈµÄ\n");
+		printf("å››çº§è€ƒè¿‡ç¨³ç¨³çš„\n");
 	}
 	return 0;
 }
