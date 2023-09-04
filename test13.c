@@ -1,7 +1,7 @@
 ﻿#define _CRT_SECURE_NO_WARNINGS   1
 
 #include<stdio.h>
-int muu(int M)
+int muu(int M)//用于判断一个整数（>=1,<=1000000)是否能被5整除
 {
 	if (M % 5 == 0)
 		printf("YES\n");
