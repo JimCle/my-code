@@ -17,7 +17,7 @@ int main()
 	right--;
 
 	printf("%s\n", arr2);
-	Sleep(1);
+	Sleep(1000);
 	system("cls");
 	}
 	printf("张雅萌请原封不动地回来并穿裙子");
