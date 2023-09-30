@@ -6,7 +6,7 @@
 int main()
 {
 	int a=0;
-	char password[6] = { 0 };
+	char password[20] = { 0 };
 	
 	for (a = 0; a < 3; a++)
 	{
